@@ -1,5 +1,10 @@
 language: android
 dist: trusty
+addons:
+      apt:
+    packages:
+      ant
+
 android:
   components:
     # Uncomment the lines below if you want to
@@ -18,11 +23,7 @@ android:
     - extra-google-m2repository
     - extra-android-
     
-    addons:
-  apt:
-    packages:
-      ant
-
+    
     # Specify at least one system image,
     # if you need to run emulator(s) during your tests
     # - sys-img-x86-android-26
