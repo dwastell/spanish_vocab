@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+	
+    
+	<item
+        android:id="@+id/progress"
+        android:title="Progress"
+		android:icon="@android:drawable/ic_menu_search"
+		android:showAsAction="ifRoom|withText"/>
+	<item
+        android:id="@+id/help"
+        android:title="Help"
+		android:icon="@android:drawable/ic_menu_help"
+		android:showAsAction="ifRoom|withText"/>
+    
+</menu>

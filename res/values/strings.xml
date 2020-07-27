@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">1000 Spanish Words</string>
+    <string name="action_settings">Settings</string>
+    <string name="next">Next</string>
+    <string name="show">SHOW</string>
+	<string name="back">Back</string>
+	<string name="hide">HIDE</string>
+	<string name="EngSpan">English-Spanish \u21c5</string>
+	<string name="SpanEng">Spanish-English \u21c5</string>
+	<string name="help">
+<b>HELP</b>
+\n
+Welcome to <i>1000 Spanish Words.</i>  This short guide 
+describes how to use the App to improve your Spanish vocab.
+\n
+The main screen shows the English word or phrase. You can
+reveal its Spanish equivalent by pressing the SHOW button. To
+test if you know the reverse translation, just toggle the mode by pressing
+the ENGLISH-SPANISH button.
+\n
+The review level section of the screen allows you to indicate
+how well you think you know the word, from zero (poor or no
+knowledge) up to 4 (perfect).
+   </string>
+
+</resources>
